@@ -20,6 +20,8 @@ MySQL - Data Extraction  and Data Collection
 
  **Live Dashboard**:(https://app.powerbi.com/view?r=eyJrIjoiODMxZjk0ZmUtMmFjZC00MGU2LTgzNTYtYjcwMDgyNGQ4YzQyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
+ **This Credit Card Analysis Github Repository link**:(https://github.com/Sarathreddy333/Credit-Card-Analysis)
+
  
 
 📊 Key Measures
