@@ -1,4 +1,4 @@
-🧾 Project: Credit Card Spend & Income Utilization Analysis | Power BI
+🧾 Project: Credit Card  Analysis
 Objective:
  To analyze customer demographics, spending behavior, income utilization, and payment preferences to identify key financial and behavioral trends.
 
